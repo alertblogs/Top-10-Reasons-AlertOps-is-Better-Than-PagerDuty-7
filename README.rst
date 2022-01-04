@@ -1,40 +1,26 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #7
 ========
+How quickly can your incident management team address a network outage, system failure or other incidents? Oftentimes, the time it takes to identify and address an incident varies based on which team members are involved and how soon they learn about an incident. It also may depend on the incident management and alert escalation software that an incident management team deploys.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+In many instances, incident management and alert escalation software offers pre-built templates that enable incident management teams to accelerate and improve incident response. Unfortunately, these templates are not one-size-fits-all solutions for all incident management teams, at all times.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+They offer limited fields to define the time spent, workaround, cause, classification and other relevant incident information. As a result, pre-built templates sometimes make it tough for incident management teams to address incidents and prevent them from recurring.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+On the other hand, incident management and alert escalation software with custom templates gives incident management teams the flexibility that they need to thrive. This software empowers incident management teams to set up templates to mitigate incidents faster than ever before. Plus, the software gives incident management teams the ability to guarantee the right team members receive the right alerts, at the right time, every time.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Benefits of Custom Templates
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+What can you do with custom incident templates? Quite a lot, actually – just consider the following benefits provided by AlertOps’s custom incident templates:
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    Set Up Custom Fields: When you use a custom template, every incident created from that template will have all of your custom fields. You also can define fields that map to JIRA and other external systems, store data from external systems in custom fields and write custom fields.
+    Map to External Systems: You can establish a workflow that automatically creates a JIRA issue from an AlertOps incident. AlertOps then can store the JIRA Issue ID in a custom field, which you can use to make callbacks to JIRA to update the issue. Additionally, you can map incoming alert data to custom fields.
+    Streamline Your Workflows: Thanks to AlertOps, you can create workflows that evaluate custom fields.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+The aforementioned list highlights just a few of the things that you can do with AlertOps incident templates. Once you combine these templates with AlertOps’s third-party integrations for monitoring, hosting and chat tools and other state-of-the-art features, you’re sure to find that this incident management and alert escalation software is a superior choice over PagerDuty and all other options.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-7/
 
 Read more:
 ====
